@@ -1,0 +1,52 @@
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Texturina:wght@300&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    font-family: 'Texturina', serif;
+    background-color: 	darkseagreen;
+}
+
+
+
+header{
+    width: 100vw;
+    height: 100vh;
+    background-image: url("https://media.istockphoto.com/photos/girl-and-weight-loss-picture-id663845678?k=6&m=663845678&s=612x612&w=0&h=RZKepa-PtkaGYhyYMR8tHUHkH2kQGM8MUlDDLwIuUPU=");
+background-size: 100% 100%;
+}
+#container{
+    display:flex;
+    flex-direction:row;
+    align-items:center;
+    height:10px;
+    }
+    nav ul li{
+    margin: 0px 20px;
+    
+    }
+
+.bar{
+    display: flex;
+    justify-content: center;
+    height: 60px;
+    align-items:center ;
+    background-color: black;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+
+
+
+
+
